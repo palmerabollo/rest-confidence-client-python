@@ -12,3 +12,5 @@ logs
 results
 
 .cache
+dist
+*.egg-info
