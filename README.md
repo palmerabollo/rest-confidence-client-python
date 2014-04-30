@@ -11,7 +11,7 @@ Usage
 Instantiate a ConfigurationResolver
 
 ```
-resolver = Configuration('http://localhost:8000', {env: 'development'});
+resolver = ConfigurationResolver('http://localhost:8000', {env: 'development'});
 ```
 
 and use it:
