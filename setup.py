@@ -6,5 +6,7 @@ setup(name='rest-confidence-client-python',
       version='1.0.0',
       description='Python client for the rest-confidence configuration server',
       url='https://github.com/palmerabollo/rest-confidence-client-python',
-      packages=['']
+      author='Guido Garcia',
+      author_email='palmerabollo@gmail.com',
+      license='MIT'
 )
