@@ -13,6 +13,8 @@ Usage
 Instantiate a ConfigurationResolver
 
 ```
+from restconfidence import ConfigurationResolver
+
 resolver = ConfigurationResolver('http://localhost:8000', {env: 'development'});
 ```
 
