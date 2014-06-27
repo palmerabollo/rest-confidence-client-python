@@ -8,5 +8,6 @@ setup(name='rest-confidence-client-python',
       url='https://github.com/palmerabollo/rest-confidence-client-python',
       author='Guido Garcia',
       author_email='palmerabollo@gmail.com',
-      license='MIT'
+      license='MIT',
+      packages=['restconfidence']
 )
